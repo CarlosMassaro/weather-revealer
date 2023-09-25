@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-revealer/static/css/main.1c15b262.css",
+    "main.js": "/weather-revealer/static/js/main.5bf90e0a.js",
+    "static/js/787.70e1b20b.chunk.js": "/weather-revealer/static/js/787.70e1b20b.chunk.js",
+    "index.html": "/weather-revealer/index.html",
+    "main.1c15b262.css.map": "/weather-revealer/static/css/main.1c15b262.css.map",
+    "main.5bf90e0a.js.map": "/weather-revealer/static/js/main.5bf90e0a.js.map",
+    "787.70e1b20b.chunk.js.map": "/weather-revealer/static/js/787.70e1b20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c15b262.css",
+    "static/js/main.5bf90e0a.js"
+  ]
+}
